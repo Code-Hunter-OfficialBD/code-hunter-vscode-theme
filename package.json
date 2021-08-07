@@ -2,16 +2,16 @@
     "name": "code-hunter-theme",
     "displayName": "Code Hunter Theme",
     "description": "Official VS Code Theme Of Code Hunter",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "CodeHunterBD",
     "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.59.0"
     },
     "repository": {
-		"type": "git",
-		"url": "https://github.com/Code-Hunter-OfficialBD/code-hunter-vscode-theme"
-	},
+        "type": "git",
+        "url": "https://github.com/Code-Hunter-OfficialBD/code-hunter-vscode-theme"
+    },
     "categories": [
         "Themes"
     ],
