@@ -2,7 +2,7 @@
     "name": "code-hunter-theme",
     "displayName": "Code Hunter Theme",
     "description": "Official VS Code Theme Of Code Hunter",
-    "version": "0.2.0",
+    "version": "1.0.0",
     "publisher": "CodeHunterBD",
     "icon": "images/logo.png",
     "engines": {
