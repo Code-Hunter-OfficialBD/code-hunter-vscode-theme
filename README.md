@@ -28,7 +28,11 @@ If you are a big fan of **Code Hunter** and you use Visual Studio Code as your c
 
 <p align="center"><img width="800px" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/p403x403/227874489_307608207814311_6977570743780698704_n.png?_nc_cat=109&ccb=1-4&_nc_sid=aee45a&_nc_eui2=AeE60miYgCWHAu2ycJJ_slREtwytGICRTEC3DK0YgJFMQD5bUmPEwyFTt8wTKzCjqCkq-JAZ--fnUVn5vbRO_dLD&_nc_ohc=6ObzXRqb5nwAX_2VkSt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=0d06018a256a49682841f0c87223fffe&oe=6131A694"></p>
 
+### Code Hunter - Dark Eye 
 
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/861231182619475989/874348442682523668/unknown.png"></p>
+
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/861231182619475989/874348708555284500/unknown.png"></p>
 
 ## Getting started
 
