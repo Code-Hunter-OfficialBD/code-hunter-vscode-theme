@@ -26,6 +26,11 @@
                 "label": "Code Hunter - Dark Eye",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Code Hunter Dark Eye-color-theme.json"
+            },
+            {
+                "label": "Code Hunter - BluePurly",
+                "uiTheme": "vs-dark",
+                "path": "./themes/code-hunter-blue-purly-color-theme.json"
             }
         ]
     },
