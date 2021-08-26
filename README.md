@@ -34,6 +34,14 @@ If you are a big fan of **Code Hunter** and you use Visual Studio Code as your c
 
 <p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/861231182619475989/874348708555284500/unknown.png"></p>
 
+### Code Hunter - BluePurly
+
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/840305488738385922/880300429261549598/bluepary.jpeg"></p>
+
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/840305488738385922/880300414715715624/bluepurly3.jpeg"></p>
+
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/840305488738385922/880300390971760740/bluepurly2.jpeg"></p>
+
 ## Getting started
 
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=CodeHunterBD.code-hunter-theme).

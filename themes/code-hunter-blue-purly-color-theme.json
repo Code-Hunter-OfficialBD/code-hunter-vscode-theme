@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+
         "foreground": "#67beff"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+
         "foreground": "#ff9d63"
       }
     },
@@ -1052,7 +1052,7 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#ff5f70"
+        "foreground": "#c276ff"
       }
     },
     {
@@ -1914,7 +1914,7 @@
     "inputOption.activeBorder": "#007acc00",
     "inputOption.activeForeground": "#eeeeee",
     "input.placeholderForeground": "#a9a9a9",
-    "textLink.foreground": "#00ff9f",
+    "textLink.foreground": "#c276ff",
     "editor.background": "#181b28",
     "editor.foreground": "#d3d3d3",
     "editorLineNumber.foreground": "#717171",
