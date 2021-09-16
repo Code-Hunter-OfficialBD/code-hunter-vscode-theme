@@ -628,7 +628,7 @@
             "name": "Tag",
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#2ac3de"
+                "foreground": "#fa7077"
             }
         },
         {
@@ -645,7 +645,7 @@
             "name": "Tag Punctuation",
             "scope": "punctuation.definition.tag",
             "settings": {
-                "foreground": "#fa7077"
+                "foreground": "#2ac3de"
             }
         },
         {
