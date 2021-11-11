@@ -26,7 +26,7 @@ If you are a big fan of **Code Hunter** and you use Visual Studio Code as your c
 
 ### Default Official Theme
 
-<p align="center"><img width="800px" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/p403x403/227874489_307608207814311_6977570743780698704_n.png?_nc_cat=109&ccb=1-4&_nc_sid=aee45a&_nc_eui2=AeE60miYgCWHAu2ycJJ_slREtwytGICRTEC3DK0YgJFMQD5bUmPEwyFTt8wTKzCjqCkq-JAZ--fnUVn5vbRO_dLD&_nc_ohc=6ObzXRqb5nwAX_2VkSt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=0d06018a256a49682841f0c87223fffe&oe=6131A694"></p>
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/897555341171122257/908409033931751424/theme.PNG"></p>
 
 ### Code Hunter - Dark Eye 
 
@@ -42,6 +42,14 @@ If you are a big fan of **Code Hunter** and you use Visual Studio Code as your c
 
 <p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/840305488738385922/880300390971760740/bluepurly2.jpeg"></p>
 
+### Code Hunter - MagNum Purple
+
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/897555341171122257/908409801116114995/magnum1.jpeg"></p>
+
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/897555341171122257/908410079341051984/magnum2.jpeg"></p>
+
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/897555341171122257/908410198463508570/magnum3.jpeg"></p>
+
 ## Getting started
 
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=CodeHunterBD.code-hunter-theme).
@@ -49,6 +57,32 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 ### Prerequisites
 
 This theme is compatible for VS Code version 1.0.1
+
+### Installation
+
+Launch _Quick Open_:
+
+- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
+- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘P`
+- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
+
+Paste the following command and press `Enter`:
+
+```shell
+ext install code-hunter-theme
+```
+
+And pick the one by **Code Hunter** as author.
+
+## Activate theme
+
+Launch _Quick Open_:
+
+- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl + Shift + P`
+- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
+- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
+
+Type `theme`, choose `Preferences: Color Theme`, and select Code Hunter Dark Theme from the list. After activation, the theme will be activated.
 
 ## Recommended settings for a better experience
 

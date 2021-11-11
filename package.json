@@ -31,7 +31,13 @@
                 "label": "Code Hunter - BluePurly",
                 "uiTheme": "vs-dark",
                 "path": "./themes/code-hunter-blue-purly-color-theme.json"
-            }
+            },
+            {
+                "label": "Code Hunter - MagNum Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/code-hunter-mag-num-purple-color-theme.json"
+            },
+
         ]
     },
     "keywords": [
