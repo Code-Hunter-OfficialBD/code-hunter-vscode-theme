@@ -58,7 +58,7 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 This theme is compatible for VS Code version 1.0.1
 
-### Installations
+### Installation
 
 Launch _Quick Open_:
 
