@@ -66,7 +66,7 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 ### Prerequisites
 
-This theme is compatible for VS Code version 4.4.1
+This theme is compatible for VS Code version 4.5.1
 
 ### Installation
 
