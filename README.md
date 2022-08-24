@@ -50,13 +50,23 @@ If you are a big fan of **Code Hunter** and you use Visual Studio Code as your c
 
 <p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/897555341171122257/908410198463508570/magnum3.jpeg"></p>
 
+### Code Hunter - Spruce Wind
+
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/897555341171122257/1011994481601564692/unknown.png"></p>
+
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/897555341171122257/1011994629966659714/unknown.png"></p>
+
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/897555341171122257/1011995057508843530/unknown.png"></p>
+
+<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/897555341171122257/1011995148969848853/unknown.png"></p>
+
 ## Getting started
 
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=CodeHunterBD.code-hunter-theme).
 
 ### Prerequisites
 
-This theme is compatible for VS Code version 1.0.1
+This theme is compatible for VS Code version 4.4.1
 
 ### Installation
 
