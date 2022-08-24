@@ -36,6 +36,11 @@
                 "label": "Code Hunter - MagNum Purple",
                 "uiTheme": "vs-dark",
                 "path": "./themes/code-hunter-mag-num-purple-color-theme.json"
+            },
+            {
+                "label": "Code Hunter - Spruce Wind",
+                "uiTheme": "vs-dark",
+                "path": "/themes/code-hunter-spruce-wind-color-theme.json"
             }
         ]
     },
@@ -47,6 +52,10 @@
         "codehunter",
         "codehunter theme",
         "code hunter theme",
-        "labib khan"
+        "labib khan",
+        "labib khan theme",
+        "code hunter theme",
+        "best vc code theme",
+        "dark vs code theme 2022"
     ]
 }
