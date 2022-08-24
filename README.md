@@ -135,4 +135,4 @@ In case you don't see the terminal does not look as expected, you can make the b
 
 ---
 
-<p align="center">Copyright &copy; 2021 Code Hunter</p>
+<p align="center">Copyright &copy; 2022 Code Hunter</p>
